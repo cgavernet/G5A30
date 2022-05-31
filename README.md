@@ -13,7 +13,7 @@ Repositorio del Grupo #5 Aula 30 - Proyecto Colaborativo
 ## Ceremonias
   ### _Sprint Planning Meeting_ :heavy_check_mark:
   
-  ### _Daily SCRUM Meeting_ :heavy_check_mark:
+  ### _Daily SCRUM Meeting_ :heavy_check_mark: Es una reuniòn periòdica que se produce diàriamente, y tiene un màximo de 20 min. de duraciòn. Su objetivo es tratar què es lo que se hizo, què se va hacer y què problemas se han encontrado, con el fin de encontrar soluciones diarias.
   
   ### _Sprint Review Meeting_ :heavy_check_mark:
   
