@@ -4,7 +4,7 @@
 Repositorio del Grupo #5 Aula 30 - Proyecto Colaborativo
 
 ## Roles
-  ### _Developer_ :heavy_check_mark:
+  ### _Developer_ :heavy_check_mark: Los developers son aquellas personas encargadas del incremento del producto en los Sprints. Tienen muy en claro y presente la vision del producto, la cuál determina que los developers son auto-organizados y no requiere intervención del Scrum Master o externos. El objetivo principal es velar por el objetivo de cada Sprint, no hay jerarquias ni sub-equipos entre ellos, trabajan como un todo.
   
   ### _Product Owner_ :heavy_check_mark:
   
