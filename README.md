@@ -25,6 +25,3 @@ Repositorio del Grupo #5 Aula 30 - Proyecto Colaborativo
   ### _sprint BackLog_ :heavy_check_mark:
   
   ### _Increment_ :heavy_check_mark:
-
-
-HOLIS C:
