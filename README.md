@@ -8,7 +8,7 @@ Repositorio del Grupo #5 Aula 30 - Proyecto Colaborativo
   
   ### _Product Owner_ :heavy_check_mark: 
   
-  ### _SCRUM Master_ :heavy_check_mark:
+  ### _SCRUM Master_ :heavy_check_mark:El Scrum Master tiene dos funciones principales dentro del marco de trabajo: gestionar el proceso Scrum y ayudar a eliminar impedimentos que puedan afectar a la entrega del producto. Además, se encarga de las labores de mentoring y formación, coaching y de facilitar reuniones y eventos si es necesario.
 
 ## Ceremonias
   ### _Sprint Planning Meeting_ :heavy_check_mark:
