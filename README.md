@@ -17,7 +17,7 @@ Repositorio del Grupo #5 Aula 30 - Proyecto Colaborativo
   
   ### _Sprint Review Meeting_ :heavy_check_mark:
   
-  ### _Sprint Restrospective Meeting_ :heavy_check_mark:
+  ### _Sprint Restrospective Meeting_ :heavy_check_mark: Su traducción al castellano significa "Reunion de retrospectiva del Sprint". Se produce al finalizar el Sprint. ¿Objetivo de esta ceremonia? Documentar que ha funcionado y que no dentro del Sprint. Focalización en los objetivos cumplidos y cuales son sus puntos debiles para mejorar. De ninguna manera se centra en lo que salio mal.
 
 ## Artefactos
   ### _Product BackLog_ :heavy_check_mark:
