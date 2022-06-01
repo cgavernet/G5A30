@@ -26,4 +26,3 @@ Repositorio del Grupo #5 Aula 30 - Proyecto Colaborativo
   
   ### _Increment_ :heavy_check_mark:
 
-ssssssssssssq onda wach
