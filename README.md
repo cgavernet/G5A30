@@ -26,3 +26,10 @@ Repositorio del Grupo #5 Aula 30 - Proyecto Colaborativo
   
   ### _Increment_ :heavy_check_mark:
 
+###  Los artefactos de Scrum representan trabajo o valor. Están diseñados para maximizar la transparencia de la información clave. Por lo tanto, todos los que los inspeccionan tienen la misma base para la adaptaciónCada artefacto contiene un compromiso para garantizar que proporcione información que mejore la transparencia y el enfoque contra el cual se puede medir el progreso: 
+
+Para el Product Backlog es el Product Goal.
+
+Para el Sprint Backlog es el Sprint Goal.
+
+Para el Incremento es la Definición de Listo.
