@@ -25,6 +25,7 @@ Repositorio del Grupo #5 Aula 30 - Proyecto Colaborativo
   ### _sprint BackLog_ :heavy_check_mark:
   
   ### _Increment_ :heavy_check_mark:
+  Incrmente lknscbcbdc.dabc.adcmad.cad.cd
 
 ###  Los artefactos de Scrum representan trabajo o valor. Están diseñados para maximizar la transparencia de la información clave. Por lo tanto, todos los que los inspeccionan tienen la misma base para la adaptaciónCada artefacto contiene un compromiso para garantizar que proporcione información que mejore la transparencia y el enfoque contra el cual se puede medir el progreso: 
 
