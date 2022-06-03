@@ -11,7 +11,20 @@ Repositorio del Grupo #5 Aula 30 - Proyecto Colaborativo
   ### _SCRUM Master_ :heavy_check_mark:El Scrum Master tiene dos funciones principales dentro del marco de trabajo: gestionar el proceso Scrum y ayudar a eliminar impedimentos que puedan afectar a la entrega del producto. Además, se encarga de las labores de mentoring y formación, coaching y de facilitar reuniones y eventos si es necesario.
 
 ## Ceremonias
-  ### _Sprint Planning Meeting_ :heavy_check_mark:
+  ### _Sprint Planning Meeting_ :heavy_check_mark: 
+  El Sprint Planning (o planificación del Sprint) es uno de los cinco eventos de Scrum y es el primero que se realiza al comenzar cada Sprint.
+En esta reunión se planifica qué es lo que se hará durante el Sprint y cómo se hará.
+El Sprint Planning tiene un timebox de hasta ocho horas para un Sprint de un mes. Si los Sprints son más acotados, la duración de esta ceremonia será adecuadamente más corta.
+El objetivo es crear un Sprint Goal y un Sprint Backlog que incluye todos los elementos del Product Backlog requeridos para alcanzar el Sprint Goal acordado por todo el Equipo Scrum.
+Al finalizar este evento, los Developers (desarrolladores) deben ser capaces de exponer cómo piensan alcanzar el objetivo del Sprint. Si lo pueden expresar con claridad, será una buena señal de que han debatido con cierta profundidad todos los ítems seleccionados y lo comprenden. Esto amplía la probabilidad que tienen de cumplir con sus estimaciones.
+Durante la planificación interviene todo el Equipo Scrum, es decir, el Product Owner, el Scrum Master y los Developers.
+El Scrum Master se debe asegurar de que este evento ocurra y se cumpla su objetivo. También, actuará como facilitador para evitar salirse del timebox asignado, o evitar que ciertas personas acaparen todas las conversaciones y decisiones.
+El Product Owner se debe asegurar de que los asistentes estén preparados para discutir los elementos más importantes del Product Backlog y cómo se relacionan con el Objetivo del Producto. Adicionalmente, cualquier miembro del Equipo Scrum puede invitar a otros asistentes para brindar asesoramiento.
+La estructura de la reunión está dividida de manera tal que aborde los siguientes temas: 
+
+Tema 1: ¿Por qué es valioso este Sprint?
+Tema 2: ¿Qué se puede hacer en este este Sprint?
+Tema 3: ¿Cómo se realizará el trabajo elegido?
   
   ### _Daily SCRUM Meeting_ :heavy_check_mark: Es una reuniòn periòdica que se produce diàriamente, y tiene un màximo de 20 min. de duraciòn. Su objetivo es tratar què es lo que se hizo, què se va hacer y què problemas se han encontrado, con el fin de encontrar soluciones diarias.
   
