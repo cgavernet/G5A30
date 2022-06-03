@@ -13,11 +13,11 @@ Repositorio del Grupo #5 Aula 30 - Proyecto Colaborativo
 ## Ceremonias
   ### _Sprint Planning Meeting_ :heavy_check_mark:
   
-  ### _Daily SCRUM Meeting_ :heavy_check_mark:
+  ### _Daily SCRUM Meeting_ :heavy_check_mark: Es una reuniòn periòdica que se produce diàriamente, y tiene un màximo de 20 min. de duraciòn. Su objetivo es tratar què es lo que se hizo, què se va hacer y què problemas se han encontrado, con el fin de encontrar soluciones diarias.
   
   ### _Sprint Review Meeting_ :heavy_check_mark:
   
-  ### _Sprint Restrospective Meeting_ :heavy_check_mark:
+  ### _Sprint Restrospective Meeting_ :heavy_check_mark: Su traducción al castellano significa "Reunion de retrospectiva del Sprint". Se produce al finalizar el Sprint. ¿Objetivo de esta ceremonia? Documentar que ha funcionado y que no dentro del Sprint. Focalización en los objetivos cumplidos y cuales son sus puntos debiles para mejorar. De ninguna manera se centra en lo que salio mal.
 
 ## Artefactos
   ### _Product BackLog_ :heavy_check_mark:
@@ -25,3 +25,11 @@ Repositorio del Grupo #5 Aula 30 - Proyecto Colaborativo
   ### _sprint BackLog_ :heavy_check_mark:
   
   ### _Increment_ :heavy_check_mark:
+
+###  Los artefactos de Scrum representan trabajo o valor. Están diseñados para maximizar la transparencia de la información clave. Por lo tanto, todos los que los inspeccionan tienen la misma base para la adaptaciónCada artefacto contiene un compromiso para garantizar que proporcione información que mejore la transparencia y el enfoque contra el cual se puede medir el progreso: 
+
+Para el Product Backlog es el Product Goal.
+
+Para el Sprint Backlog es el Sprint Goal.
+
+Para el Incremento es la Definición de Listo.
