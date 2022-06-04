@@ -41,7 +41,10 @@ Tema 3: ¿Cómo se realizará el trabajo elegido?
   ### _Product BackLog_ :heavy_check_mark:
   El Product Backlog es una lista emergente y ordenada de lo que se necesita para mejorar el producto. Es la única fuente de trabajo realizada por el Scrum Team.Los elementos de la Lista de Producto que puede realizar el Equipo Scrum dentro de un Sprint se consideran listos para la selección en un evento de Planificación de Sprint. Suelen adquirir este grado de transparencia después de las actividades de refinación. El refinamiento de la cartera de productos es el acto de desglosar y definir aún más los elementos de la cartera de productos en elementos más pequeños y precisos. Esta es una actividad continua para agregar detalles, como una descripción, orden y tamaño. Los atributos a menudo varían con el dominio del trabajo.
   
-  ### _sprint BackLog_ :heavy_check_mark:
+  ### _Sprint BackLog_ :heavy_check_mark:
+  El Sprint Backlog se compone del Objetivo del Sprint (por qué), el conjunto de elementos del Product Backlog seleccionados para el Sprint (qué), así como un plan de acción para entregar el Increment (cómo).
+  El Sprint Backlog es un plan realizado por y para los Developers. Es una imagen muy visible y en tiempo real del trabajo que los Developers planean realizar durante el Sprint para lograr el Objetivo del Sprint.
+  En consecuencia, el Sprint Backlog se actualiza a lo largo del Sprint a medida que se aprende más. Debe tener suficientes detalles para que puedan inspeccionar su progreso en la Daily Scrum.
   
   ### _Increment_ :heavy_check_mark:
 
