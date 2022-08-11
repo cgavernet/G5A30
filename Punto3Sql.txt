@@ -1,0 +1,67 @@
+CREATE DATABASE IF NOT EXISTS Punto3sql;
+
+USE Punto3sql;
+
+CREATE TABLE IF NOT EXISTS Dueno (
+    DNI INT NOT NULL UNIQUE,
+    nombre VARCHAR(45) NOT NULL,
+    apellido VARCHAR(45) NOT NULL,
+    telefono VARCHAR(45) NULL,
+    direccion VARCHAR (200) NOT NULL,
+    PRIMARY KEY (DNI)
+);
+
+CREATE TABLE IF NOT EXISTS Perro (
+	idPerro INT NOT NULL AUTO_INCREMENT,
+    nombre VARCHAR(45) NOT NULL,
+    fechaNac DATE NOT NULL,
+    sexo VARCHAR(45),
+    Dueno_DNI INT NOT NULL,
+    PRIMARY KEY (idPerro),
+    CONSTRAINT fk_Dueno_DNI
+		FOREIGN KEY (Dueno_DNI)
+		REFERENCES Dueno (DNI)
+		ON DELETE NO ACTION
+		ON UPDATE NO ACTION
+);
+
+CREATE TABLE IF NOT EXISTS Historial (
+	idHistorial INT NOT NULL AUTO_INCREMENT,
+    fecha DATE NOT NULL,
+    perro INT NOT NULL,
+    descripcion VARCHAR(300) NULL,
+    PRIMARY KEY (`idHistorial`,`Perro_idPerro`,`Perro_Dueno_DNI`),
+    KEY `fk_Historial_Perro1_idx` (`Perro_idPerro`,`Perro_Dueno_DNI`),
+    CONSTRAINT `fk_Historial_Perro1` FOREIGN KEY (`Perro_idPerro`, `Perro_Dueno_DNI`) REFERENCES `perro` (`idPerro`, `Dueno_DNI`)
+
+);
+
+INSERT INTO dueno
+VALUES (44767788,'Martina','Ponce de Leon','3512923642','Rio Primero 2005'),
+(45696855, 'Lihue', 'Santos', '2512923645', 'Chamical 3100'),
+(26180569, 'Cesira', 'Blanco', '3515086983', 'Fiambala 4851'),
+(30258741, 'Fabian', 'Aquiles', 3512963589, 'av. Sabatini 601');
+
+INSERT INTO perro
+VALUES (1, 'Manuel', '2015-05-23', 'Macho', 44767788),
+(2, 'Plumita', '2020-05-01', 'Hembra', 45696855),
+(3, 'Paco', '2022-03-28','Macho', 26180569),
+(4, 'Pipe', '2005-01-15', 'Macho',30258741);
+
+INSERT INTO historial
+VALUES (1, '2022-05-10', 'Manuel', 'Calculos en la Panza', 35.000, 1, 44767788),
+(2, '2020-06-15', 'Plumita', 'Colocacion de vacunas perrunas', 20.000, 2, 45696855),
+(3, '2022-04-05', 'Paco', 'Fractura de pata izquierda', '15.000', 3, 26180569),
+(4, '2005-02-15', 'Pipe', 'Colocacion de vacunas perrunas', 5.000, 4, 30258741);
+
+SELECT *
+FROM historial
+
+DELETE FROM historial
+WHERE Perro_idPerro = 4
+
+DELETE FROM perro
+WHERE idPerro= 4
+
+DELETE FROM dueno
+WHERE DNI= 30258741
