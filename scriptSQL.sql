@@ -112,6 +112,12 @@ INSERT INTO Dueno VALUES (36225649,'Javier','Medina','3514744635','Pte Peron 442
 INSERT INTO Perro(Nombre, Fecha_nac, Sexo, DNI_Dueno) VALUES ('Snoopy', '2022-03-03', 'Macho', 36225649);
 INSERT INTO Historial(Fecha, Perro_ID, Descripcion, Monto) VALUES ('2022-08-11',13,'Corte',1100);
 
+-- 8. Insertar un nuevo registro en la tabla historial de un perro cuyo ID Perro es igual a 10.
+INSERT INTO Historial (Fecha, Perro_ID, Descripcion, Monto) VALUES ('2022-08-11',10,'Corte',1100);
+
+
+-- Práctica!
+
 -- 3. Borre un animal que ya no va a ser atendido. Para ello consulte antes en el historial, algún animal que ya no sea atendido 
 -- desde hace mucho tiempo.
 
@@ -142,9 +148,6 @@ WHERE h.Fecha > '2022-01-01';
 -- 7. Obtener los ingresos percibidos en Julio del 2022
 SELECT SUM(Monto) FROM Historial
 WHERE MONTH(Fecha) = 07 AND YEAR(Fecha) = 2022;
-
--- 8. Insertar un nuevo registro en la tabla historial de un perro cuyo ID Perro es igual a 10.
-INSERT INTO Historial (Fecha, Perro_ID, Descripcion, Monto) VALUES ('2022-08-11',10,'Corte',1100);
 
 -- 9. Escriba una consulta que permita actualizar la dirección de un dueño. Su nueva dirección es Libertad 123
 UPDATE Dueno 
