@@ -35,7 +35,7 @@ CREATE TABLE IF NOT EXISTS Historial (
     Fecha DATE NOT NULL,
     perro INT NOT NULL,
     Descripcion VARCHAR(100) NULL,
-    Monto INT NOT NULL,
+    Monto FLOAT NOT NULL,
     PRIMARY KEY (ID_Historial),
     CONSTRAINT fk_Perro
 		FOREIGN KEY (perro)
